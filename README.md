@@ -1,10 +1,12 @@
 # codepath-prework
 Repository for codepath prework project
 
-## Hello
+## Hello from Raey
 
 ### App Description
-The app that I have created consists of a ...
+The app that I have created is an IOS app consisting of a page with an editable label saying "Hello from Raey!". 
+It has three buttons, a label, and a text field. The first button changes the text string into the text input read from the text box. If there is none, then it changes the text string displayed into the default string 'Goodbye!'. The second button changes the font color and the third the background color. 
+To reset the graphics, the user can click on the background of the app, causing it to reset to its initial appearance. 
 
 ### App Walk-though
 <img src="https://github.com/RaeyWAweke/codepath-prework/blob/master/aweke_prework.gif?raw=true" width=200><br>
