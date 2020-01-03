@@ -4,12 +4,10 @@ Repository for codepath prework project
 ## Hello
 
 ### App Description
-`TODO://` The app that I have created consists of a ...
+The app that I have created consists of a ...
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="aweke_prework.gif" width=200><br>
+<img src="https://github.com/RaeyWAweke/codepath-prework/blob/master/aweke_prework.gif?raw=true"width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
