@@ -5,7 +5,7 @@ Repository for codepath prework project
 
 ### App Description
 The app that I have created is an IOS app consisting of a page with an editable label saying "Hello from Raey!". 
-The first button changes the text string into the text input read from the text box. If there is none, then it changes the text string displayed into the default string 'Goodbye!'. The second button changes the background color into a dark grey with the second view changing into a lighter grey to accomadate. 
+The first button changes the text string into the text input read from the text box. If there is none, then it changes the text string displayed into the default string 'Goodbye!'. The second button changes the background color into a dark grey with light grey accents.
 
 The rest of the buttons edit various aspects of the fonts such as the alignment, color, and size. To reset the graphics, the user can click on the background of the app, causing it to reset to its initial appearance. 
 
