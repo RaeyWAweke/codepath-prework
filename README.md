@@ -9,8 +9,7 @@ It has three buttons, a label, and a text field. The first button changes the te
 To reset the graphics, the user can click on the background of the app, causing it to reset to its initial appearance. 
 
 ### App Walk-though
-<img src="https://github.com/RaeyWAweke/codepath-prework/blob/master/aweke_prework.gif?raw=true" width=200><br>
-
+<img src="https://github.com/RaeyWAweke/codepath-prework/blob/master/aweke_prework.gif?raw=true" width=200><br><img src="https://github.com/RaeyWAweke/codepath-prework/blob/master/aweke_prework2.gif" width=200><br>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
